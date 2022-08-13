@@ -11,6 +11,7 @@
 		BD64BF1628A718BA000F73D9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD64BF1528A718BA000F73D9 /* ContentView.swift */; };
 		BD64BF1828A718C2000F73D9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD64BF1728A718C2000F73D9 /* Assets.xcassets */; };
 		BD64BF1B28A718C2000F73D9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD64BF1A28A718C2000F73D9 /* Preview Assets.xcassets */; };
+		BD64BF2228A734E5000F73D9 /* ImagePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD64BF2128A734E5000F73D9 /* ImagePickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		BD64BF1528A718BA000F73D9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		BD64BF1728A718C2000F73D9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD64BF1A28A718C2000F73D9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BD64BF2128A734E5000F73D9 /* ImagePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				BD64BF1328A718BA000F73D9 /* MyCameraApp.swift */,
 				BD64BF1528A718BA000F73D9 /* ContentView.swift */,
+				BD64BF2128A734E5000F73D9 /* ImagePickerView.swift */,
 				BD64BF1728A718C2000F73D9 /* Assets.xcassets */,
 				BD64BF1928A718C2000F73D9 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD64BF1628A718BA000F73D9 /* ContentView.swift in Sources */,
+				BD64BF2228A734E5000F73D9 /* ImagePickerView.swift in Sources */,
 				BD64BF1428A718BA000F73D9 /* MyCameraApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

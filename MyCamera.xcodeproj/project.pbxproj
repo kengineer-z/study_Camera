@@ -13,6 +13,7 @@
 		BD64BF1B28A718C2000F73D9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD64BF1A28A718C2000F73D9 /* Preview Assets.xcassets */; };
 		BD64BF2228A734E5000F73D9 /* ImagePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD64BF2128A734E5000F73D9 /* ImagePickerView.swift */; };
 		BD7DB3E628A9B047002AEF0F /* ActivityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7DB3E528A9B047002AEF0F /* ActivityView.swift */; };
+		BD7DB3E828A9D762002AEF0F /* PHPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD7DB3E728A9D762002AEF0F /* PHPickerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		BD64BF1A28A718C2000F73D9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BD64BF2128A734E5000F73D9 /* ImagePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePickerView.swift; sourceTree = "<group>"; };
 		BD7DB3E528A9B047002AEF0F /* ActivityView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityView.swift; sourceTree = "<group>"; };
+		BD7DB3E728A9D762002AEF0F /* PHPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PHPickerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				BD64BF1328A718BA000F73D9 /* MyCameraApp.swift */,
 				BD64BF1528A718BA000F73D9 /* ContentView.swift */,
+				BD7DB3E728A9D762002AEF0F /* PHPickerView.swift */,
 				BD64BF2128A734E5000F73D9 /* ImagePickerView.swift */,
 				BD7DB3E528A9B047002AEF0F /* ActivityView.swift */,
 				BD64BF1728A718C2000F73D9 /* Assets.xcassets */,
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD7DB3E828A9D762002AEF0F /* PHPickerView.swift in Sources */,
 				BD64BF1628A718BA000F73D9 /* ContentView.swift in Sources */,
 				BD7DB3E628A9B047002AEF0F /* ActivityView.swift in Sources */,
 				BD64BF2228A734E5000F73D9 /* ImagePickerView.swift in Sources */,
